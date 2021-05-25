@@ -7,3 +7,8 @@ C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\obj\R
 C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\obj\Release\DynamicHangarMod.csproj.GenerateResource.cache
 C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\obj\Release\DynamicHangarMod.exe
 C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\obj\Release\DynamicHangarMod.pdb
+C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\bin\Release\Memory.dll
+C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\bin\Release\Memory.xml
+C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Melvil\Documents\GitHub\WoTB-HangarPlaces-Memory\DynamicHangarMod\obj\Release\DynamicHangarMod.csproj.CopyComplete
