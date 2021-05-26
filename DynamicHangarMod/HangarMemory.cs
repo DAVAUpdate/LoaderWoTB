@@ -36,5 +36,17 @@ namespace DynamicHangarMod
                 //Later
             }
         }
+
+        private void ClosingButton_Click(object sender, EventArgs e)
+        {
+            //CLOSE APP
+            this.Close();
+            Application.Exit();
+        }
+
+        private void DeplaceButton_Click(object sender, EventArgs e)
+        {
+            //START MOD - WRITE CODE HERE
+        }
     }
 }
